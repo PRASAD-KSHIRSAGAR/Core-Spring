@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN"
+			"https://www.springframework.org/dtd/spring-beans-2.0.dtd">
+		<beans>
+			<bean id="team" class="com.Springcoreproject2.Team">
+				<property name="names">
+				<list>
+					<value>Prasad</value>
+					<value>Suresh</value>
+					<value>Kshirsagar</value>
+					<value>Rohit</value>
+				</list>
+				
+				</property>
+			
+			</bean>
+			
+		
+		</beans>	
